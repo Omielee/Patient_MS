@@ -26,3 +26,5 @@ replay_pid*
 # store
 .DS_Store
 **/.DS_Store
+pms-backend/src/main/resources/application.properties
+pms-backend/src/main/resources/application.properties
